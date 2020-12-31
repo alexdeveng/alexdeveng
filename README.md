@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**alex81sp/alex81sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on helping people at Java / Software Craftman / MobProgramming communities 
+- 🌱 I’m currently learning Reactive Architectures
+- 👯 I’m looking to collaborate on open source projects like @jkube
+- 🤔 I’m looking for help with Reactive architectures
+- 💬 Ask me about Java, JakartaEE, Spring, Quarkus, Clean code, TDD, Intellij Shortcuts and Refactoring
+- 📫 How to reach me: 
+  - [Twitter (@alex81sp)](http://twitter.com/alex81sp). That's the best way. 
+  - [Linkedin (@alejandrobcn)](https://www.linkedin.com/in/alejandrobcn)
+  - [BarcelonaJUG - Slack](https://www.barcelonajug.org) 
+  - [JBCN Conf    - About](https://www.jbcnconf.com)
+  - [Software Crafters - Slack](http://softwarecrafters.slack.com)
+- 😄 Pronouns: he/him
