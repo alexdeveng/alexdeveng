@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on helping people at Java / Software Craftman / MobProgramming communities 
 - 🌱 I’m currently learning Reactive Architectures
-- 👯 I’m looking to collaborate on open source projects like @jkube
+- 👯 I’m looking to collaborate on open source projects like [@eclipse/jkube]( https://github.com/eclipse/jkube )
 - 🤔 I’m looking for help with Reactive architectures
 - 💬 Ask me about Java, JakartaEE, Spring, Quarkus, Clean code, TDD, Intellij Shortcuts and Refactoring
 - 📫 How to reach me: 
