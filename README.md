@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Reactive architectures
 - 💬 Ask me about Java, JakartaEE, Spring, Quarkus, Clean code, TDD, Intellij Shortcuts and Refactoring
 - 📫 How to reach me: 
-  - [Twitter (@alex81sp)](http://twitter.com/alexdeveng). That's the best way. 
+  - [Twitter (@alexdeveng)](http://twitter.com/alexdeveng). That's the best way. 
   - [Linkedin (@alejandrobcn)](https://www.linkedin.com/in/alejandrobcn)
   - [BarcelonaJUG - Slack](https://www.barcelonajug.org) 
   - [JBCN Conf    - About](https://www.jbcnconf.com)
