@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on helping people at Java / Software Craftman / MobProgramming communities 
-- 🌱 I’m currently learning Reactive Architectures
+- 🔭 I’m currently helping people at Java / Software Crafters / MobProgramming communities 
+- 🌱 I’m currently interested in Reactive Architectures, Cloud computing, Functional programming, Competitive programming
 - 👯 I’m looking to collaborate on open source projects like [@eclipse/jkube]( https://github.com/eclipse/jkube )
 - 🤔 I’m looking for help with Reactive architectures
 - 💬 Ask me about Java, JakartaEE, Spring, Quarkus, Clean code, TDD, Intellij Shortcuts and Refactoring
